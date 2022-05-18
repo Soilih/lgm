@@ -1,0 +1,60 @@
+Information connexion Dolifact demo :
+------------------------------------
+https://app.dolifact.fr/demo
+identifiant : demo
+mot de passe : demo
+ 
+Lien pour tester l’API Dolifact :
+-------------------------------
+https://app.dolifact.fr/demo/api/index.php/explorer/
+O3J2QPeT3swlJrQV8q815oTKpfs6W85r
+
+O3J2QPeT3swlJrQV8q815oTKpfs6W85r
+
+les API RESET PHP 
+https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/php/rest-api-php.html
+
+https://waytolearnx.com/2019/07/creer-et-utiliser-une-api-rest-en-php.html
+
+RECUPERATION API 
+https://tutorialsclass.com/php-rest-api-file_get_contents/
+
+https://www.lije-creative.com/tuto-application-php-api-json/
+
+https://stackoverflow.com/questions/33302442/get-info-from-external-api-url-using-php
+
+
+gestion des head 
+https://seegatesite.com/how-to-resolve-no-access-control-allow-origin-header-in-lumen/
+
+https://seegatesite.com/rest-api-and-http-methods-get-post-put-delete-using-slim-framework-and-php/
+
+
+mysql node js 
+-------------
+https://docs.microsoft.com/fr-fr/azure/mysql/connect-nodejs
+
+icons
+https://fontawesome.com/v4/icons/
+
+http://techlaboratory.net/jquery-smartwizard
+
+Gestion de panier 
+https://www.youtube.com/watch?v=8hZvm45oQJg
+
+codde couleurs 
+https://flatcolors.net/
+
+slide css: 
+https://splidejs.com/guides/getting-started/
+
+code panier 
+http://www.oujood.com/how/Systeme-panier-PHP-MySQL.php
+https://jcrozier.developpez.com/articles/web/panier/
+http://jmolline.free.fr/tutos/tuto_panier.html
+
+CRUD : php POO 
+https://phpgurukul.com/php-crud-operations-using-php-oop-and-mysql/?msclkid=4cfb0528cf6611ec8039ad82348bcfad
+
+css : 
+https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Flexbox

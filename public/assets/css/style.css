@@ -1,0 +1,89 @@
+#img-produit{
+    max-height:80px;
+    width:100%
+}
+#col-card{
+    margin-top:1%;
+    float: auto;
+    
+}
+
+#titre{
+    font-size: 20px;
+    padding-top: 5px;
+    text-align:left;
+}
+#prix{
+    color: #CF000F;
+    font-size:18px;
+    text-align: left;
+}
+#panier{
+    border-radius: 60px;
+    border: 1px solid red;
+    padding-right:15%;
+    text-align: center;
+    
+}
+#id_panier{
+    color:white;
+}
+* {
+	box-sizing: border-box;
+}
+#montant{
+    float: right;
+    font-size:15px;
+    font-family: sans serif;
+}
+#connexion{
+    padding-top:5%;
+    
+
+}
+#bo{
+    background-image: url("../img/lgm.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 200px;
+}
+#connexion-form{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+#flex-container {
+	flex-direction: row;
+    flex-wrap: wrap;
+}
+.flex-item{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+#img-glace{
+ height:60px;
+ float: left;
+}
+#flex{
+    background-color:aqua;
+    margin-top:0.5%;
+    vertical-align: top;
+   
+}
+#qt{
+    width:33%;
+}
+#btn-valider{
+    
+}
+
+
+
+
+
